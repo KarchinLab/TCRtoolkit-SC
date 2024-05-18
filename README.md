@@ -1,4 +1,4 @@
-# TCRtoolkit-SC: An platform for single cell T-cell repertoire analysis
+# TCRtoolkit-SC: scTCR repertoire analysis
 
 ![TCRtoolkit-banner](./assets/images/TCRtoolkit-banner.png)
 

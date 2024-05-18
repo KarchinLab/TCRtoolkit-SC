@@ -37,9 +37,9 @@ workflow TCRTOOLKIT_SINGLECELL {
 
     // INPUT_CHECK( file(params.samplesheet) )
 
-    ch_vdj_contigs = Channel.fromPath("${params.ch_vdj_contigs}")
+    ch_vdj_contigs = Channel.fromPath(params.input_vdj_contigs, checkIfExists: true)
 
-    SC_PSEUDOBULK( )
+    SC_PSEUDOBULK( ch_vdj_contigs )
 
 
 
