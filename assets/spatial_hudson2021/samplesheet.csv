@@ -1,0 +1,7 @@
+patient_id,id,slide,area,path_reads,path_image,path_cytaimage,path_darkimage,path_colorizedimage,path_alignment,path_slidefile
+patient27,SRR15052437,V10A21-106,B1,/lab/data/spatial-tcr/hudson-2021/data/SRR15052437/fastqs,/lab/data/spatial-tcr/hudson-2021/data/all_spatial_images/patient27.tif,NO_FILE,NO_FILE,NO_FILE,NO_FILE,NO_FILE
+patient26,SRR15052438,V10A21-106,A1,/lab/data/spatial-tcr/hudson-2021/data/SRR15052438/fastqs,/lab/data/spatial-tcr/hudson-2021/data/all_spatial_images/patient26.tif,NO_FILE,NO_FILE,NO_FILE,NO_FILE,NO_FILE
+patient24,SRR15052439,V10A21-106,C1,/lab/data/spatial-tcr/hudson-2021/data/SRR15052439/fastqs,/lab/data/spatial-tcr/hudson-2021/data/all_spatial_images/patient24.tif,NO_FILE,NO_FILE,NO_FILE,NO_FILE,NO_FILE
+patient19,SRR15052440,V10A21-106,D1,/lab/data/spatial-tcr/hudson-2021/data/SRR15052440/fastqs,/lab/data/spatial-tcr/hudson-2021/data/all_spatial_images/patient19.tif,NO_FILE,NO_FILE,NO_FILE,NO_FILE,NO_FILE
+patient16,SRR15052441,V10A21-107,D1,/lab/data/spatial-tcr/hudson-2021/data/SRR15052441/fastqs,/lab/data/spatial-tcr/hudson-2021/data/all_spatial_images/patient16.tif,NO_FILE,NO_FILE,NO_FILE,NO_FILE,NO_FILE
+patient15,SRR15052442,V10A21-107,C1,/lab/data/spatial-tcr/hudson-2021/data/SRR15052442/fastqs,/lab/data/spatial-tcr/hudson-2021/data/all_spatial_images/patient15.tif,NO_FILE,NO_FILE,NO_FILE,NO_FILE,NO_FILE
